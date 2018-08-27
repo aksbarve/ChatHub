@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Sign_In">
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="305dp"
+        android:layout_height="265dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="79dp"
+        app:srcCompat="@drawable/ic_text_icon" />
+
+    <Button
+        android:id="@+id/acc_signin"
+        android:layout_width="253dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="237dp"
+        android:backgroundTint="#00796B"
+        android:text="Let Start" />
+
+</RelativeLayout>

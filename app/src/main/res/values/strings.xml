@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatHub</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc tincidunt ante vitae massa. In enim a arcu imperdiet malesuada. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Pellentesque sapien. Aliquam erat volutpat. Integer tempor.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
